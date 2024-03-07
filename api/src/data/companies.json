@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "name": "Ryan - Olson",
+    "logoUrl": "https://picsum.photos/seed/ubit-1/200",
+    "coins": ["eth", "btc", "bnb"]
+  },
+  {
+    "id": 2,
+    "name": "Ward Group",
+    "logoUrl": "https://picsum.photos/seed/ubit-2/200",
+    "coins": ["trx", "ada", "eos", "bnb"]
+  },
+  {
+    "id": 3,
+    "name": "Cartwright LLC",
+    "logoUrl": "https://picsum.photos/seed/ubit-3/200",
+    "coins": ["eth", "bnb", "ada", "btc"]
+  },
+  {
+    "id": 4,
+    "name": "White Group",
+    "logoUrl": "https://picsum.photos/seed/ubit-4/200",
+    "coins": ["doge", "eth", "dot", "eos"]
+  },
+  {
+    "id": 5,
+    "name": "Wisozk, Littel and Borer",
+    "logoUrl": "https://picsum.photos/seed/ubit-5/200",
+    "coins": ["bnb", "doge", "ada", "trx"]
+  },
+  {
+    "id": 6,
+    "name": "Dicki LLC",
+    "logoUrl": "https://picsum.photos/seed/ubit-6/200",
+    "coins": ["btc", "ada", "eos", "dot"]
+  },
+  {
+    "id": 7,
+    "name": "Hamill - Altenwerth",
+    "logoUrl": "https://picsum.photos/seed/ubit-7/200",
+    "coins": ["doge"]
+  },
+  {
+    "id": 8,
+    "name": "Hirthe Group",
+    "logoUrl": "https://picsum.photos/seed/ubit-8/200",
+    "coins": ["dot", "eth"]
+  },
+  {
+    "id": 9,
+    "name": "Rau and Sons",
+    "logoUrl": "https://picsum.photos/seed/ubit-9/200",
+    "coins": ["eth", "bnb", "ada"]
+  },
+  {
+    "id": 10,
+    "name": "Jerde Group",
+    "logoUrl": "https://picsum.photos/seed/ubit-10/200",
+    "coins": ["doge", "ada"]
+  },
+  {
+    "id": 11,
+    "name": "Stark - Jacobi",
+    "logoUrl": "https://picsum.photos/seed/ubit-11/200",
+    "coins": ["trx"]
+  },
+  {
+    "id": 12,
+    "name": "Conn, Glover and Hamill",
+    "logoUrl": "https://picsum.photos/seed/ubit-12/200",
+    "coins": ["trx", "btc", "doge", "dot"]
+  },
+  {
+    "id": 13,
+    "name": "Cremin - Pfeffer",
+    "logoUrl": "https://picsum.photos/seed/ubit-13/200",
+    "coins": ["eos", "trx"]
+  },
+  {
+    "id": 14,
+    "name": "VonRueden, Dach and Bode",
+    "logoUrl": "https://picsum.photos/seed/ubit-14/200",
+    "coins": ["eos", "btc", "bnb", "ada"]
+  },
+  {
+    "id": 15,
+    "name": "Prohaska - Wehner",
+    "logoUrl": "https://picsum.photos/seed/ubit-15/200",
+    "coins": ["eth", "dot", "trx"]
+  },
+  {
+    "id": 16,
+    "name": "Fadel Inc",
+    "logoUrl": "https://picsum.photos/seed/ubit-16/200",
+    "coins": ["eos", "eth"]
+  },
+  {
+    "id": 17,
+    "name": "Miller LLC",
+    "logoUrl": "https://picsum.photos/seed/ubit-17/200",
+    "coins": ["eos", "ada", "eth", "trx"]
+  },
+  {
+    "id": 18,
+    "name": "Hettinger - Kulas",
+    "logoUrl": "https://picsum.photos/seed/ubit-18/200",
+    "coins": ["bnb"]
+  },
+  {
+    "id": 19,
+    "name": "Koch and Sons",
+    "logoUrl": "https://picsum.photos/seed/ubit-19/200",
+    "coins": ["ada", "btc", "doge"]
+  },
+  {
+    "id": 20,
+    "name": "Casper, Goodwin and Wehner",
+    "logoUrl": "https://picsum.photos/seed/ubit-20/200",
+    "coins": ["bnb", "eos", "ada", "eth"]
+  },
+  {
+    "id": 21,
+    "name": "Runolfsdottir - Herzog",
+    "logoUrl": "https://picsum.photos/seed/ubit-21/200",
+    "coins": ["eth", "dot", "doge"]
+  },
+  {
+    "id": 22,
+    "name": "Tremblay Inc",
+    "logoUrl": "https://picsum.photos/seed/ubit-22/200",
+    "coins": ["eos", "dot"]
+  },
+  {
+    "id": 23,
+    "name": "Watsica Group",
+    "logoUrl": "https://picsum.photos/seed/ubit-23/200",
+    "coins": ["dot", "eos", "ada"]
+  },
+  {
+    "id": 24,
+    "name": "Roob - Crona",
+    "logoUrl": "https://picsum.photos/seed/ubit-24/200",
+    "coins": ["bnb"]
+  },
+  {
+    "id": 25,
+    "name": "Rice - Cruickshank",
+    "logoUrl": "https://picsum.photos/seed/ubit-25/200",
+    "coins": ["dot", "eth", "ada"]
+  },
+  {
+    "id": 26,
+    "name": "Dickinson - Boyer",
+    "logoUrl": "https://picsum.photos/seed/ubit-26/200",
+    "coins": ["trx", "btc", "ada"]
+  },
+  {
+    "id": 27,
+    "name": "Gutmann, Walker and Abbott",
+    "logoUrl": "https://picsum.photos/seed/ubit-27/200",
+    "coins": ["ada"]
+  },
+  {
+    "id": 28,
+    "name": "Jaskolski - Kuhlman",
+    "logoUrl": "https://picsum.photos/seed/ubit-28/200",
+    "coins": ["trx", "btc", "eth"]
+  },
+  {
+    "id": 29,
+    "name": "Gibson, Hackett and Hackett",
+    "logoUrl": "https://picsum.photos/seed/ubit-29/200",
+    "coins": ["eos", "dot"]
+  },
+  {
+    "id": 30,
+    "name": "Turcotte, Goodwin and Gerhold",
+    "logoUrl": "https://picsum.photos/seed/ubit-30/200",
+    "coins": ["btc"]
+  },
+  {
+    "id": 31,
+    "name": "Osinski - Thompson",
+    "logoUrl": "https://picsum.photos/seed/ubit-31/200",
+    "coins": ["trx", "dot"]
+  },
+  {
+    "id": 32,
+    "name": "Sporer, Koelpin and Gusikowski",
+    "logoUrl": "https://picsum.photos/seed/ubit-32/200",
+    "coins": ["trx", "eth"]
+  },
+  {
+    "id": 33,
+    "name": "Rippin LLC",
+    "logoUrl": "https://picsum.photos/seed/ubit-33/200",
+    "coins": ["dot", "bnb", "doge"]
+  },
+  {
+    "id": 34,
+    "name": "Yundt, Lesch and Hahn",
+    "logoUrl": "https://picsum.photos/seed/ubit-34/200",
+    "coins": ["ada", "btc"]
+  },
+  {
+    "id": 35,
+    "name": "Wilkinson - Green",
+    "logoUrl": "https://picsum.photos/seed/ubit-35/200",
+    "coins": ["btc", "ada", "eth", "dot"]
+  },
+  {
+    "id": 36,
+    "name": "Stracke Group",
+    "logoUrl": "https://picsum.photos/seed/ubit-36/200",
+    "coins": ["bnb"]
+  },
+  {
+    "id": 37,
+    "name": "Schumm, Funk and Toy",
+    "logoUrl": "https://picsum.photos/seed/ubit-37/200",
+    "coins": ["eos", "bnb", "trx", "eth"]
+  },
+  {
+    "id": 38,
+    "name": "Blanda, Kertzmann and Towne",
+    "logoUrl": "https://picsum.photos/seed/ubit-38/200",
+    "coins": ["doge", "eos", "bnb"]
+  },
+  {
+    "id": 39,
+    "name": "Bayer Group",
+    "logoUrl": "https://picsum.photos/seed/ubit-39/200",
+    "coins": ["dot"]
+  },
+  {
+    "id": 40,
+    "name": "Weimann, Luettgen and Keebler",
+    "logoUrl": "https://picsum.photos/seed/ubit-40/200",
+    "coins": ["btc"]
+  },
+  {
+    "id": 41,
+    "name": "Schuster, Ruecker and Larson",
+    "logoUrl": "https://picsum.photos/seed/ubit-41/200",
+    "coins": ["btc", "ada", "trx"]
+  },
+  {
+    "id": 42,
+    "name": "Olson - Powlowski",
+    "logoUrl": "https://picsum.photos/seed/ubit-42/200",
+    "coins": ["bnb"]
+  },
+  {
+    "id": 43,
+    "name": "Lehner Group",
+    "logoUrl": "https://picsum.photos/seed/ubit-43/200",
+    "coins": ["btc", "bnb", "trx", "doge"]
+  },
+  {
+    "id": 44,
+    "name": "Fadel LLC",
+    "logoUrl": "https://picsum.photos/seed/ubit-44/200",
+    "coins": ["btc", "bnb"]
+  },
+  {
+    "id": 45,
+    "name": "Mayer - Brown",
+    "logoUrl": "https://picsum.photos/seed/ubit-45/200",
+    "coins": ["eos", "doge", "bnb", "ada"]
+  },
+  {
+    "id": 46,
+    "name": "Kiehn - Kuvalis",
+    "logoUrl": "https://picsum.photos/seed/ubit-46/200",
+    "coins": ["eos", "eth", "doge"]
+  },
+  {
+    "id": 47,
+    "name": "Bartoletti Inc",
+    "logoUrl": "https://picsum.photos/seed/ubit-47/200",
+    "coins": ["eos", "eth", "btc"]
+  },
+  {
+    "id": 48,
+    "name": "Strosin and Sons",
+    "logoUrl": "https://picsum.photos/seed/ubit-48/200",
+    "coins": ["dot", "eth"]
+  },
+  {
+    "id": 49,
+    "name": "Botsford LLC",
+    "logoUrl": "https://picsum.photos/seed/ubit-49/200",
+    "coins": ["doge"]
+  },
+  {
+    "id": 50,
+    "name": "Jast - Hammes",
+    "logoUrl": "https://picsum.photos/seed/ubit-50/200",
+    "coins": ["trx"]
+  },
+  {
+    "id": 51,
+    "name": "Bailey, McCullough and Streich",
+    "logoUrl": "https://picsum.photos/seed/ubit-51/200",
+    "coins": ["eth", "bnb"]
+  },
+  {
+    "id": 52,
+    "name": "Strosin - Durgan",
+    "logoUrl": "https://picsum.photos/seed/ubit-52/200",
+    "coins": ["eth", "trx", "btc", "bnb"]
+  },
+  {
+    "id": 53,
+    "name": "Cassin, Pacocha and Mante",
+    "logoUrl": "https://picsum.photos/seed/ubit-53/200",
+    "coins": ["btc", "eth", "dot"]
+  },
+  {
+    "id": 54,
+    "name": "Mertz - Ankunding",
+    "logoUrl": "https://picsum.photos/seed/ubit-54/200",
+    "coins": ["ada", "eth", "trx"]
+  },
+  {
+    "id": 55,
+    "name": "Gutkowski, Kertzmann and Kozey",
+    "logoUrl": "https://picsum.photos/seed/ubit-55/200",
+    "coins": ["doge", "eth", "eos"]
+  },
+  {
+    "id": 56,
+    "name": "Leuschke LLC",
+    "logoUrl": "https://picsum.photos/seed/ubit-56/200",
+    "coins": ["bnb", "dot", "doge", "ada"]
+  },
+  {
+    "id": 57,
+    "name": "Upton - Pfannerstill",
+    "logoUrl": "https://picsum.photos/seed/ubit-57/200",
+    "coins": ["dot"]
+  },
+  {
+    "id": 58,
+    "name": "Conn LLC",
+    "logoUrl": "https://picsum.photos/seed/ubit-58/200",
+    "coins": ["trx", "bnb", "dot"]
+  },
+  {
+    "id": 59,
+    "name": "Gleason, Hermann and Berge",
+    "logoUrl": "https://picsum.photos/seed/ubit-59/200",
+    "coins": ["bnb", "ada"]
+  },
+  {
+    "id": 60,
+    "name": "Greenfelder and Sons",
+    "logoUrl": "https://picsum.photos/seed/ubit-60/200",
+    "coins": ["btc"]
+  },
+  {
+    "id": 61,
+    "name": "Daugherty, Runte and Durgan",
+    "logoUrl": "https://picsum.photos/seed/ubit-61/200",
+    "coins": ["dot", "bnb"]
+  },
+  {
+    "id": 62,
+    "name": "Toy - Mayer",
+    "logoUrl": "https://picsum.photos/seed/ubit-62/200",
+    "coins": ["eth", "doge", "bnb"]
+  },
+  {
+    "id": 63,
+    "name": "Kunde Inc",
+    "logoUrl": "https://picsum.photos/seed/ubit-63/200",
+    "coins": ["doge", "btc"]
+  },
+  {
+    "id": 64,
+    "name": "Gorczany and Sons",
+    "logoUrl": "https://picsum.photos/seed/ubit-64/200",
+    "coins": ["doge", "bnb"]
+  },
+  {
+    "id": 65,
+    "name": "Rutherford, Cummerata and Bruen",
+    "logoUrl": "https://picsum.photos/seed/ubit-65/200",
+    "coins": ["trx", "btc", "dot"]
+  },
+  {
+    "id": 66,
+    "name": "King and Sons",
+    "logoUrl": "https://picsum.photos/seed/ubit-66/200",
+    "coins": ["bnb", "trx", "dot", "eth"]
+  },
+  {
+    "id": 67,
+    "name": "Thiel, Rogahn and Feil",
+    "logoUrl": "https://picsum.photos/seed/ubit-67/200",
+    "coins": ["btc", "dot", "bnb", "doge"]
+  },
+  {
+    "id": 68,
+    "name": "Corkery - Blick",
+    "logoUrl": "https://picsum.photos/seed/ubit-68/200",
+    "coins": ["trx", "btc"]
+  },
+  {
+    "id": 69,
+    "name": "Pouros, Hammes and Ryan",
+    "logoUrl": "https://picsum.photos/seed/ubit-69/200",
+    "coins": ["ada", "trx", "btc"]
+  },
+  {
+    "id": 70,
+    "name": "Nienow, Feeney and Veum",
+    "logoUrl": "https://picsum.photos/seed/ubit-70/200",
+    "coins": ["trx", "bnb"]
+  },
+  {
+    "id": 71,
+    "name": "Kunze - Kemmer",
+    "logoUrl": "https://picsum.photos/seed/ubit-71/200",
+    "coins": ["dot", "eth", "trx", "eos"]
+  },
+  {
+    "id": 72,
+    "name": "Gerhold - Cassin",
+    "logoUrl": "https://picsum.photos/seed/ubit-72/200",
+    "coins": ["eth", "dot", "doge", "eos"]
+  },
+  {
+    "id": 73,
+    "name": "Nader, Howell and Kuvalis",
+    "logoUrl": "https://picsum.photos/seed/ubit-73/200",
+    "coins": ["trx", "bnb", "eos", "btc"]
+  },
+  {
+    "id": 74,
+    "name": "Orn, Turner and Bradtke",
+    "logoUrl": "https://picsum.photos/seed/ubit-74/200",
+    "coins": ["btc", "eos"]
+  },
+  {
+    "id": 75,
+    "name": "Graham and Sons",
+    "logoUrl": "https://picsum.photos/seed/ubit-75/200",
+    "coins": ["eos", "bnb"]
+  },
+  {
+    "id": 76,
+    "name": "Herzog, Pollich and Bogan",
+    "logoUrl": "https://picsum.photos/seed/ubit-76/200",
+    "coins": ["bnb"]
+  },
+  {
+    "id": 77,
+    "name": "Moore - Russel",
+    "logoUrl": "https://picsum.photos/seed/ubit-77/200",
+    "coins": ["eth", "bnb", "btc", "eos"]
+  },
+  {
+    "id": 78,
+    "name": "Herman Inc",
+    "logoUrl": "https://picsum.photos/seed/ubit-78/200",
+    "coins": ["btc", "trx", "ada"]
+  },
+  {
+    "id": 79,
+    "name": "Jones - Grady",
+    "logoUrl": "https://picsum.photos/seed/ubit-79/200",
+    "coins": ["trx", "doge", "bnb", "eth"]
+  },
+  {
+    "id": 80,
+    "name": "Cartwright, Boyle and Ankunding",
+    "logoUrl": "https://picsum.photos/seed/ubit-80/200",
+    "coins": ["btc", "bnb", "trx"]
+  },
+  {
+    "id": 81,
+    "name": "O'Keefe Group",
+    "logoUrl": "https://picsum.photos/seed/ubit-81/200",
+    "coins": ["doge", "eos"]
+  },
+  {
+    "id": 82,
+    "name": "Bashirian, Kuphal and Thompson",
+    "logoUrl": "https://picsum.photos/seed/ubit-82/200",
+    "coins": ["ada", "eos", "bnb"]
+  },
+  {
+    "id": 83,
+    "name": "Wintheiser, Labadie and Lehner",
+    "logoUrl": "https://picsum.photos/seed/ubit-83/200",
+    "coins": ["trx", "bnb"]
+  },
+  {
+    "id": 84,
+    "name": "Stanton Group",
+    "logoUrl": "https://picsum.photos/seed/ubit-84/200",
+    "coins": ["bnb", "trx", "dot", "doge"]
+  },
+  {
+    "id": 85,
+    "name": "Cremin - Keeling",
+    "logoUrl": "https://picsum.photos/seed/ubit-85/200",
+    "coins": ["eos", "bnb", "dot"]
+  },
+  {
+    "id": 86,
+    "name": "Sporer - Blick",
+    "logoUrl": "https://picsum.photos/seed/ubit-86/200",
+    "coins": ["bnb", "eos", "ada"]
+  },
+  {
+    "id": 87,
+    "name": "Denesik Group",
+    "logoUrl": "https://picsum.photos/seed/ubit-87/200",
+    "coins": ["doge", "btc", "trx"]
+  },
+  {
+    "id": 88,
+    "name": "Hickle - D'Amore",
+    "logoUrl": "https://picsum.photos/seed/ubit-88/200",
+    "coins": ["eth", "eos"]
+  },
+  {
+    "id": 89,
+    "name": "Boyer, Jerde and Bauch",
+    "logoUrl": "https://picsum.photos/seed/ubit-89/200",
+    "coins": ["trx"]
+  },
+  {
+    "id": 90,
+    "name": "Tillman - Boyle",
+    "logoUrl": "https://picsum.photos/seed/ubit-90/200",
+    "coins": ["trx", "btc", "bnb", "eth"]
+  },
+  {
+    "id": 91,
+    "name": "Gislason Group",
+    "logoUrl": "https://picsum.photos/seed/ubit-91/200",
+    "coins": ["trx", "eos", "ada"]
+  },
+  {
+    "id": 92,
+    "name": "Runolfsson - Farrell",
+    "logoUrl": "https://picsum.photos/seed/ubit-92/200",
+    "coins": ["eth", "trx"]
+  },
+  {
+    "id": 93,
+    "name": "Cremin - Schimmel",
+    "logoUrl": "https://picsum.photos/seed/ubit-93/200",
+    "coins": ["ada", "trx", "eth", "eos"]
+  },
+  {
+    "id": 94,
+    "name": "Wiegand - Fahey",
+    "logoUrl": "https://picsum.photos/seed/ubit-94/200",
+    "coins": ["eos"]
+  },
+  {
+    "id": 95,
+    "name": "Walker - Wintheiser",
+    "logoUrl": "https://picsum.photos/seed/ubit-95/200",
+    "coins": ["bnb", "eos", "btc"]
+  },
+  {
+    "id": 96,
+    "name": "Gorczany LLC",
+    "logoUrl": "https://picsum.photos/seed/ubit-96/200",
+    "coins": ["dot", "doge", "bnb", "ada"]
+  },
+  {
+    "id": 97,
+    "name": "Wolff, Kozey and Pagac",
+    "logoUrl": "https://picsum.photos/seed/ubit-97/200",
+    "coins": ["dot", "eos", "eth", "ada"]
+  },
+  {
+    "id": 98,
+    "name": "Parisian - Crona",
+    "logoUrl": "https://picsum.photos/seed/ubit-98/200",
+    "coins": ["doge"]
+  },
+  {
+    "id": 99,
+    "name": "Conroy LLC",
+    "logoUrl": "https://picsum.photos/seed/ubit-99/200",
+    "coins": ["bnb", "dot", "btc"]
+  },
+  {
+    "id": 100,
+    "name": "Conn - Mraz",
+    "logoUrl": "https://picsum.photos/seed/ubit-100/200",
+    "coins": ["eth"]
+  }
+]

@@ -1,0 +1,49 @@
+.CompanyCard {
+  padding: 15px;
+  border-bottom: 1px solid #777;
+  display: flex;
+}
+
+.CompanyLogo {
+  display: flex;
+  margin-right: 20px;
+}
+
+.CompanyLogo img {
+  width: 100px;
+  height: 100px;
+}
+
+.CompanyDetails {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.CompanyName {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.CompanyCoins {
+  display: flex;
+}
+
+.CompanyCoin {
+  background: #333;
+  color: white;
+  border-radius: 4px;
+  padding: 4px 8px;
+  font-size: 11px;
+  font-weight: bold;
+  margin: 0 5px;
+}
+
+.CompanyCoin:first-child {
+  margin-left: 0;
+}
+
+.CompanyCoin:last-child {
+  margin-right: 0;
+}

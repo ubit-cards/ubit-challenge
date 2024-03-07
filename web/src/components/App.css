@@ -1,0 +1,11 @@
+.Header {
+  padding: 15px;
+  background: rgb(36, 81, 178);
+}
+
+.Header input {
+  width: 100%;
+  padding: 15px;
+  font-size: 18px;
+  outline: 0;
+}
