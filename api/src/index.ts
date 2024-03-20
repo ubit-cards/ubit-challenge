@@ -3,6 +3,7 @@ import express from 'express';
 import { faker } from '@faker-js/faker';
 
 import companies from './data/companies.json';
+import isFuzzyMatch from './utils/isFuzzyMatch';
 
 const COINS = [
   'btc',
@@ -23,7 +24,7 @@ app.use(cors());
 app.get('/companies', (req, res) => {
   const searchQuery = req.query.query as string | undefined;
   const filteredCompanies = companies.filter((company) =>
-    searchQuery ? company.name.toLowerCase().includes(searchQuery.toLowerCase()) : true,
+    isFuzzyMatch(searchQuery.toLowerCase(), company.name.toLowerCase())
   );
 
   res.send(filteredCompanies);
